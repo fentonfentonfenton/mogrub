@@ -10,4 +10,5 @@ bundler [gem install bundler]
 
 # do
 clone this repo
-```bundle exec bosh.rb```
+
+```ruby bosh.rb```

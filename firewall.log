@@ -1,1 +1,2 @@
-insert sample data
+Apr 12 11:52:02 fw1.ber.office.internal.net filterlog: 5,16777216,,1000000103,lagg0,match,block,in,4,0x0,,63,63061,0,DF,6,tcp,52,163.172.211.135,146.33.59.79,56531,443,0,FA,4228012701,759176725,4096,,nop;nop;TS
+Apr 12 11:52:04 fw1.ber.office.internal.net filterlog: 5,16777216,,1000000103,lagg0_vlan666,match,block,in,4,0x0,,64,3068,0,DF,6,tcp,52,31.29.78.51,254.84.231.2020,53898,443,0,FA,3317211215,2666913529,974,,nop;nop;TS
